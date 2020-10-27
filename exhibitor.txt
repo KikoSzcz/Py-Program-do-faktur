@@ -1,3 +1,10 @@
+<<<<<<< Updated upstream
 AAAAA
 33-333 XXXXX ul. WWWWW 44
 NIP 123123123 <!>
+=======
+
+AAAAA
+33-333 XXXXX ul. WWWWW 44
+NIP 123123123 <!>
+>>>>>>> Stashed changes
